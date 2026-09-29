@@ -1,0 +1,13 @@
+# Entornos y archivos locales
+.env
+.venv/
+venv/
+*.log
+
+# Instaladores y material de clase no perteneciente al proyecto
+*.exe
+*.zip
+*.pptx
+*.pdf
+*.doc
+*.docx
